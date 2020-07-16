@@ -24,7 +24,7 @@ All the relevant code is in MATLAB. I'm using version 2016b. The BTC price data 
 
 The code is set up to make it easy to test your own csv data using test.m, after you've calculated the weights
 
-## Status December 28, 2016
+## Status 
 Over the three days, profit is around 1.1% and the win rate (percentage of the time that it successfully predicted the direction of the price jump) is ~80%. I am experimenting with adding transaction fees and taking spread into account.
 
 ![buy-sell graph](buy-sell.png)
