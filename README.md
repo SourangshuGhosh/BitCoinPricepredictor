@@ -1,5 +1,3 @@
-### Update December 7th 2017: **NEW FAQ under Wiki/ **
-Price prediction right now from historical data is going to be very tricky, because no historical bitcoin data set will match current market behaviour. Consider HODLing. 
 
 # btcpredictor
 
